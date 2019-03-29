@@ -1,5 +1,7 @@
 # Just another Yii2 Export Widget for Yii2
 
+## Fixed for latest Yii 2 version - 2.0.16
+
 [![Latest Version](https://img.shields.io/github/tag/ericmaicon/yii2-export.svg?style=flat-square&label=release)](https://github.com/ericmaicon/yii2-export/tags)
 [![Build Status](https://img.shields.io/travis/ericmaicon/yii2-export/master.svg?style=flat-square)](https://travis-ci.org/ericmaicon/yii2-export)
 
