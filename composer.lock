@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9fddae099ac2cc3d40c9a4aae5a7aa6c",
+    "content-hash": "ae2900745116dedfb1fd30407d0d7e1c",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -335,7 +335,7 @@
             "time": "2018-11-12T08:28:32+00:00"
         },
         {
-            "name": "videlalvaro/php-amqplib",
+            "name": "php-amqplib/php-amqplib",
             "version": "v2.2.6",
             "source": {
                 "type": "git",
@@ -377,7 +377,6 @@
                 "queue",
                 "rabbitmq"
             ],
-            "abandoned": "php-amqplib/php-amqplib",
             "time": "2013-12-22T12:49:53+00:00"
         },
         {
